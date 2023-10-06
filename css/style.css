@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(44, 42, 59);
+    margin: 0px;
+    font-family: Barlow Condensed;
+    color: white;
+}
+
+nav {
+    background-color: #ffee00;
+    padding: 20px 125px 10px 25px;
+    font-size: 2.3em;
+}
+
+nav h {
+    font-size: 93px;
+    color: black;
+    
+}
+
+nav a {
+    font-family: Barlow Condensed;
+    color: black;
+    text-decoration: none;
+}
+
+nav img {
+    height: 180px;
+}
+ul {
+    display: inline-block;
+    float: right;
+    padding-top: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section > img {
+    width: 100vw;
+}
+
+p {
+    font-size: 35px;
+}
